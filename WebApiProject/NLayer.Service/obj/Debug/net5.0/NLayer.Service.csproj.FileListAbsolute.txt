@@ -1,0 +1,17 @@
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.csprojAssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.AssemblyInfo.cs
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Service.deps.json
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Service.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\ref\NLayer.Service.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Service.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\ref\NLayer.Service.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Repository.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Repository.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\bin\Debug\net5.0\NLayer.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Service\obj\Debug\net5.0\NLayer.Service.csproj.CopyComplete

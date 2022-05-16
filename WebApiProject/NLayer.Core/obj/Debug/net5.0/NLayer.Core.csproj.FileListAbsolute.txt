@@ -1,0 +1,12 @@
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\bin\Debug\net5.0\NLayer.Core.deps.json
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\bin\Debug\net5.0\NLayer.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\bin\Debug\net5.0\ref\NLayer.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\bin\Debug\net5.0\NLayer.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.csprojAssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\ref\NLayer.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.pdb

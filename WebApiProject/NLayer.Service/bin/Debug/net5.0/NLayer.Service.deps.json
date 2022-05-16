@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NLayer.Service/1.0.0": {
+        "dependencies": {
+          "NLayer.Repository": "1.0.0"
+        },
+        "runtime": {
+          "NLayer.Service.dll": {}
+        }
+      },
+      "NLayer.Core/1.0.0": {
+        "runtime": {
+          "NLayer.Core.dll": {}
+        }
+      },
+      "NLayer.Repository/1.0.0": {
+        "dependencies": {
+          "NLayer.Core": "1.0.0"
+        },
+        "runtime": {
+          "NLayer.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NLayer.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayer.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

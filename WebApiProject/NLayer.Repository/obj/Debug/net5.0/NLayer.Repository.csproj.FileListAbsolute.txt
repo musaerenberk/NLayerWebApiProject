@@ -1,0 +1,15 @@
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\bin\Debug\net5.0\NLayer.Repository.deps.json
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\bin\Debug\net5.0\NLayer.Repository.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\bin\Debug\net5.0\ref\NLayer.Repository.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\bin\Debug\net5.0\NLayer.Repository.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.csprojAssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\ref\NLayer.Repository.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\bin\Debug\net5.0\NLayer.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\bin\Debug\net5.0\NLayer.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Repository\obj\Debug\net5.0\NLayer.Repository.csproj.CopyComplete
