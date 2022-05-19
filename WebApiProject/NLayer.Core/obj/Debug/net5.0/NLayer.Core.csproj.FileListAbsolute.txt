@@ -10,3 +10,6 @@ C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebAp
 C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.dll
 C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\ref\NLayer.Core.dll
 C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\bin\Debug\net5.0\NLayer.Core.runtimeconfig.json
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\bin\Debug\net5.0\NLayer.Core.runtimeconfig.dev.json
+C:\Users\meren\OneDrive\Masaüstü\NLayerWebApiProject\NLayerWebApiProject\WebApiProject\NLayer.Core\obj\Debug\net5.0\NLayer.Core.genruntimeconfig.cache
