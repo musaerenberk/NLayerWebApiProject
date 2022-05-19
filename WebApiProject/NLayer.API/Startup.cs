@@ -1,3 +1,4 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -8,7 +9,14 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using NLayer.Core.IUnitofWork;
+using NLayer.Core.Repositories;
+using NLayer.Core.Services;
 using NLayer.Repository;
+using NLayer.Repository.Repositories;
+using NLayer.Repository.UnitOfWorks;
+using NLayer.Service.Mapping;
+using NLayer.Service.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,6 +49,12 @@ namespace NLayer.API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "NLayer.API", Version = "v1" });
             });
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped(typeof(IService<>), typeof(Service<>));
+            services.AddScoped<IUnitofWork, UnitOfWork>();
+
+            Mapper.Initialize(cfg => cfg.AddProfile<MapProfile>());
+            services.AddAutoMapper();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
